@@ -1,0 +1,41 @@
+AirportKey,AirportCode,AirportName,City,State
+201,ATL,Hartsfield-Jackson Atlanta Intl,Atlanta,GA
+202,DFW,Dallas/Fort Worth Intl,Dallas,TX
+203,DEN,Denver Intl,Denver,CO
+204,ORD,O'Hare Intl,Chicago,IL
+205,LAX,Los Angeles Intl,Los Angeles,CA
+206,JFK,John F. Kennedy Intl,New York,NY
+207,LAS,Harry Reid Intl,Las Vegas,NV
+208,MCO,Orlando Intl,Orlando,FL
+209,MIA,Miami Intl,Miami,FL
+210,CLT,Charlotte Douglas Intl,Charlotte,NC
+211,SEA,Seattle-Tacoma Intl,Seattle,WA
+212,PHX,Phoenix Sky Harbor Intl,Phoenix,AZ
+213,EWR,Newark Liberty Intl,Newark,NJ
+214,SFO,San Francisco Intl,San Francisco,CA
+215,IAH,George Bush Intercontinental,Houston,TX
+216,BOS,Logan Intl,Boston,MA
+217,FLL,Fort Lauderdale-Hollywood Intl,Fort Lauderdale,FL
+218,MSP,Minneapolis-St Paul Intl,Minneapolis,MN
+219,LGA,LaGuardia,New York,NY
+220,DTW,Detroit Metro Wayne County,Detroit,MI
+221,PHL,Philadelphia Intl,Philadelphia,PA
+222,SLC,Salt Lake City Intl,Salt Lake City,UT
+223,BWI,Baltimore/Washington Intl,Baltimore,MD
+224,SAN,San Diego Intl,San Diego,CA
+225,TPA,Tampa Intl,Tampa,FL
+226,IAD,Washington Dulles Intl,Washington,DC
+227,MDW,Chicago Midway Intl,Chicago,IL
+228,BNA,Nashville Intl,Nashville,TN
+229,AUS,Austin-Bergstrom Intl,Austin,TX
+230,DAL,Dallas Love Field,Dallas,TX
+231,HNL,Daniel K. Inouye Intl,Honolulu,HI
+232,PDX,Portland Intl,Portland,OR
+233,STL,St. Louis Lambert Intl,St. Louis,MO
+234,HOU,William P. Hobby,Houston,TX
+235,SMF,Sacramento Intl,Sacramento,CA
+236,MSY,Louis Armstrong New Orleans Intl,New Orleans,LA
+237,RDU,Raleigh-Durham Intl,Raleigh,NC
+238,SJC,Norman Y. Mineta San Jose Intl,San Jose,CA
+239,SAT,San Antonio Intl,San Antonio,TX
+240,CLE,Cleveland Hopkins Intl,Cleveland,OH

@@ -1,0 +1,13 @@
+AirlineKey,AirlineCode,AirlineName,AirlineType
+101,AA,American Airlines,Full-Service
+102,DL,Delta Air Lines,Full-Service
+103,UA,United Airlines,Full-Service
+104,WN,Southwest Airlines,Low-Cost
+105,B6,JetBlue Airways,Low-Cost
+106,AS,Alaska Airlines,Full-Service
+107,NK,Spirit Airlines,Ultra Low-Cost
+108,F9,Frontier Airlines,Ultra Low-Cost
+109,HA,Hawaiian Airlines,Full-Service
+110,G4,Allegiant Air,Ultra Low-Cost
+111,SY,Sun Country Airlines,Low-Cost
+112,9E,Endeavor Air,Regional
