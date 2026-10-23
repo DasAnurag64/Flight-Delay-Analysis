@@ -1,4 +1,4 @@
-[project_documentation (1).md](https://github.com/user-attachments/files/33846072/project_documentation.1.md)]
+[project_documentation (1).md](https://github.com/user-attachments/files/33846072/project_documentation.1.md)
 # ✈️ Travel Agency | Airline Delay & Operational Performance Analysis
 
 An end-to-end business intelligence and data engineering project analyzing 20,000 commercial flights across 12 domestic carriers. This project audits dirty operational data, enforces FAA/BTS aviation reporting standards using Python, models a 3-table schema, and delivers an interactive Power BI executive dashboard with actionable recommendations for travel agency operations.
